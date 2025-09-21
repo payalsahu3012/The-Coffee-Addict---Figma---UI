@@ -26,3 +26,7 @@ Coffee Addict Cafe UI is a modern, user-friendly Figma design for a coffee shop 
 1. Clone or download the repository:  
    ```bash
    git clone https://github.com/payalsahu3012/coffee-addict-cafe-ui.git
+
+## Preview
+
+ ![Website Preview](The Coffee Addict uI.png))
